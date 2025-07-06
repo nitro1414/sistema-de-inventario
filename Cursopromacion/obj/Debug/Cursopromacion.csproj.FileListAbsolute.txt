@@ -1,0 +1,8 @@
+C:\Users\Jairo\source\repos\Cursopromacion\Cursopromacion\bin\Debug\Cursopromacion.exe.config
+C:\Users\Jairo\source\repos\Cursopromacion\Cursopromacion\bin\Debug\Cursopromacion.exe
+C:\Users\Jairo\source\repos\Cursopromacion\Cursopromacion\bin\Debug\Cursopromacion.pdb
+C:\Users\Jairo\source\repos\Cursopromacion\Cursopromacion\obj\Debug\Cursopromacion.csproj.AssemblyReference.cache
+C:\Users\Jairo\source\repos\Cursopromacion\Cursopromacion\obj\Debug\Cursopromacion.exe.config
+C:\Users\Jairo\source\repos\Cursopromacion\Cursopromacion\obj\Debug\Cursopromacion.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\source\repos\Cursopromacion\Cursopromacion\obj\Debug\Cursopromacion.exe
+C:\Users\Jairo\source\repos\Cursopromacion\Cursopromacion\obj\Debug\Cursopromacion.pdb
